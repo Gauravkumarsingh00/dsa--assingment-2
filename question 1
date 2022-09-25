@@ -1,0 +1,12 @@
+ https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true
+
+
+#include <stdio.h>
+
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+int main (){
+    printf("Hello, World!");
+    printf("\nWelcome to C programming.");
+}
